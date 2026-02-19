@@ -1,5 +1,11 @@
+<!DOCTYPE html>
+<html>
 
-<h1>Aysha Hamdard</h1>
+<head>
+<title>About Me</title>
+</head>
+
+<body>
 
 <h2>About Me</h2>
 
@@ -20,3 +26,5 @@
 </tr>
 </table>
 
+</body>
+</html>
