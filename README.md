@@ -1,9 +1,5 @@
 
 
-<head>
-<title>Aysha Hamdard</title>
-</head>
-
 <body>
 
 <h2>Aysha Hamdard</h2>
