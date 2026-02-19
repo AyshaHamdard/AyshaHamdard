@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <h2>About Me</h2>
@@ -20,5 +20,3 @@
 </tr>
 </table>
 
-</body>
-</html>
