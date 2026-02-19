@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Aysha Hamdard</title>
-<style>
 table {
   border-collapse: collapse;
   width: 50%;
