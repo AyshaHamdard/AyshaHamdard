@@ -1,9 +1,4 @@
 
-<html>
-<body>
-
-<h2>About Me</h2>
-
 <table border="1">
 <tr>
 <th>Name</th>
@@ -20,6 +15,3 @@
 <td>Programming, presentations, building websites</td>
 </tr>
 </table>
-
-</body>
-</html>
